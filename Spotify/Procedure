@@ -1,0 +1,24 @@
+24/02/2024:
+    step-1:
+        created backend and frontend folders with basic react set up
+
+    step-2:
+        in backend folder we have successfully created npm initilization process using "npm init" installed  express package using "npm i express"
+        we successgully created index.js file and .env file here .env file will contains PORT="8285" as server posrt number and mongodb url for connecting mongodb data base
+
+
+
+{
+  "name": "User of Vjit",
+  "email": "user@gmail.com",
+  "username": "student",
+  "likedSongs": "",
+  "likedPlaylist": "",
+  "subscribedArtist": "",
+  "_id": "65da3b0400c3dc8922fc7159",
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZGVudGlmaWVyIjoiNjVkYTNiMDQwMGMzZGM4OTIyZmM3MTU5IiwiaWF0IjoxNzA4ODAwNzcyLCJleHAiOjE3MDg4MDQzNzJ9.TnQsOBL3MhVXhsLXl6sqCnj3He3wWTmNkUiON_HFIZ8"
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZGVudGlmaWVyIjoiNjVkYTNiMDQwMGMzZGM4OTIyZmM3MTU5IiwiaWF0IjoxNzA4ODAwNzcyLCJleHAiOjE3MDg4MDQzNzJ9.TnQsOBL3MhVXhsLXl6sqCnj3He3wWTmNkUiON_HFIZ8
